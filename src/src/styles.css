@@ -1,0 +1,44 @@
+body {
+  background: #fbf2d5;
+}
+
+h1,
+h3,
+footer,
+#second-title,
+#img-caption,
+#introductory-phrase,
+.section-title {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  list-style: square;
+}
+
+.section-title {
+  text-decoration: underline;
+}
+
+#img-caption,
+#second-title,
+footer {
+  font-style: italic;
+}
+
+#img-caption {
+  font-size: 16px;
+}
+
+#tribute-info {
+  padding: 0px 500px;
+  text-align: justify;
+}
